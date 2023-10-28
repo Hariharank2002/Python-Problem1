@@ -13,5 +13,5 @@ class VGLUGcompany:
         print("Salary:",self.salary)
         print("Phone:",self.phone)
 
-Vcom=VGLUGcompany("HARI",21,1014,550000,7094975269)
+Vcom=VGLUGcompany("HARI",21,1014,750000,7094975269)
 Vcom.getEmployeeDetails()
