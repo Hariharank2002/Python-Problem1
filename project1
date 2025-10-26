@@ -6,7 +6,7 @@ class VGLUG company:
         self.id=id
         self.salary=salary
         self.phone=phone
-
+#function 
     def get Employee Details(self):
         print("name:",self.name)
         print("Age:",self.age)
