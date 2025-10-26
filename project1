@@ -1,4 +1,5 @@
-class VGLUGcompany:
+
+class VGLUG company:
     def __init__(self,name,age,id,salary,phone):
         self.name=name
         self.age=age
@@ -6,12 +7,12 @@ class VGLUGcompany:
         self.salary=salary
         self.phone=phone
 
-    def getEmployeeDetails(self):
-        print("name:"+self.name)
+    def get Employee Details(self):
+        print("name:",self.name)
         print("Age:",self.age)
         print("ID:",self.id)
         print("Salary:",self.salary)
         print("Phone:",self.phone)
 
 Vcom=VGLUGcompany("HARI",21,1014,750000,7094975269)
-Vcom.getEmployeeDetails()
+Vcom.get Employee Details()
