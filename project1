@@ -1,5 +1,5 @@
 class VGLUG:
-    def__init__(self,name,age,id,phone):
+    def __init__(self,name,age,id,phone):
         self.name=name
         self.age=age
         self.id=id
